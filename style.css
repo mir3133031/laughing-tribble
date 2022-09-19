@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+body {
+
+    height: 1747px;
+}
+
+
+
+.boxForText {
+    margin: 0 auto;
+    width: 516px;
+    height: 139px;
+}
+
+.shoop {
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+}
+
+.boxOneBt {
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    width: 254px;
+    height: 55px;
+}
+
+.boxOneBt p {
+    margin-top: 17px;
+    text-align: center;
+}
+
+.containerForBtn {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    width: 512px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.bossBox {
+    margin: 65px auto;
+    width: 386px;
+    height: 200px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 474px;
+}
+
+.boxLch {
+    margin-top: 21px;
+    background-color: aquamarine;
+    margin-right: 21px;
+}
+
+.boxImg {
+
+    width: 364px;
+    height: 199px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.img {
+    margin: 0 auto;
+    background-image: url(./img/81fPKd-2AYL\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 115px;
+    height: 161px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.boxText {
+
+    height: 256px;
+    background-color: #000000;
+}
+
+.clothing {
+    margin-left: 30px;
+    margin-bottom: 11px;
+    padding-top: 30px;
+    width: 267px;
+    height: 29px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.aLotText {
+    margin-top: 70px;
+    width: 297px;
+    height: 51px;
+    margin-left: 30px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: rgba(255, 255, 255, 0.56);
+}
+
+.buttonIth {
+    margin-top: 35px;
+    width: 305px;
+    height: 55px;
+    margin-bottom: 24px;
+    margin-left: 30px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
